@@ -1,0 +1,161 @@
+header {
+    /* background-color: red; */
+    display: flex;
+    justify-content: right;
+}
+.ella-brand{
+    background-color:green ;
+    display: flex;
+    justify-content: left;
+}
+.brand img{
+    width: 8%;
+}
+.first h1 {
+    background-color: #ffd700;
+    display: flex;
+    justify-content: center;
+}
+main {
+    background-image: url("../images/elldeems.jpg");
+    height: 450px;
+}
+header h1 {
+    /* background-color: aqua; */
+    margin-right: 150px;
+
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+        "Lucida Sans", Arial, sans-serif;
+}
+header nav ul {
+    /* background-color: green; */
+
+    display: flex;
+}
+header nav ul li {
+    /* background-color: #4d4949; */
+    margin-right: 10px;
+    list-style-type: none;
+}
+li a {
+    background-color: #3b3838;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 3px;
+    margin: 4px;
+}
+.hi h1 {
+    /* background-color:yellow; */
+    display: flex;
+    justify-content: center;
+}
+
+.elldeems-inform {
+    display: flex;
+    justify-content: center;
+    padding: 60px 10px;
+}
+.elldeems-details {
+    /* background-color: red; */
+/* font-size: ; */
+    width: 600px;
+    box-shadow: 2px 2px 11px #d33a3a;
+    padding: 25px;
+}
+.elldeems-details h1{
+    /* background-color: red; */
+    font-size: xx-large;
+}
+.elldeems-details p{
+    font-size: large;
+}
+.go-home {
+    display: inline-block;
+}
+
+.home-click a {
+    background-color: #be4646;
+    color :white;
+    padding: 12px;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 8px 5px 5px;
+    margin-top: 20px;
+}
+.form-group {
+    /* background-color: red; */
+    margin: 15px 5px;
+}
+.form-group label {
+    display: block;
+}
+.form-group input,
+.form-group select,
+.form-group textarea {
+    /* display: block; */
+    width: 90%;
+    border: none;
+    background-color: #f3e3e3;
+    padding: 12px;
+    border-radius: 10px;
+}
+.form-button input {
+    background-color: #be4646;
+    color: white;
+    width: auto;
+    cursor: pointer;
+}
+.form-group i{
+    /* background-color: red; */
+}
+
+.message{
+    /* background-color:green; */
+    /* font-size: xx-large; */
+}
+.sample1{
+    background-color: red;
+    
+}
+.sample h1{
+    font-family: 'Chakra Petch', sans-serif;
+
+}
+.pictures img{
+       display: inline-block;
+       justify-content: center;
+       width: 300px;
+ } 
+.second-pictures img{
+     width: 300px;
+}
+ .video-source video{
+    width: 300px;
+}
+.swiper{
+    width: 400px;
+    height: 300px;
+} 
+.sample1{
+    font-family: 'Chakra Petch', sans-serif;
+font-family: 'Roboto', sans-serif;
+    /* background-color: red; */
+    font-size: xx-large;
+    display: flex;
+    justify-content: right;
+}
+.for-gallery a{
+    background-color: #be4646;
+    color :white;
+    padding: 12px;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 8px 5px 5px;
+    margin-top: 20px;
+}
+
+ 
+
+
+            
